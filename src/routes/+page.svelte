@@ -8,6 +8,7 @@
 		show = !show
 	}
 	//Clicking the button brings up a gif that plays on repeat
+	// 
 </script>
 
 <svelte:head>
